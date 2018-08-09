@@ -1,0 +1,6 @@
+Name,Availability,Duration (sec),Total Capacity,Assigned,Free Capacity,Average Holding Time,Average Interaction Time,CSAT
+ayush.sachdeva,offline,848569,NA,1,NA,NA,NA,NA
+ayush+admin+1,offline,848563,NA,0,NA,NA,NA,NA
+ayush+admin+2,offline,848562,NA,0,NA,NA,NA,NA
+ayush+agent+1,offline,848562,NA,0,NA,NA,NA,NA
+ayush+agent+2,offline,848561,NA,0,NA,NA,NA,NA
